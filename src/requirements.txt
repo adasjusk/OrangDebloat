@@ -1,0 +1,8 @@
+PyQt5>=5.15.0
+requests>=2.31.0
+wmi>=1.5.1
+nuitka>=2.0.0
+pywin32>=305
+setuptools>=68.0.0
+wheel>=0.41.0
+tqdm>=4.66.0

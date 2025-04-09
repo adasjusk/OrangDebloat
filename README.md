@@ -11,4 +11,3 @@ made with Python and Powershell.
 - [ChrisTitusTech](https://github.com/christitustech) ([CTT WinUtil](https://github.com/christitustech/winutil))
 - [Raphire](https://github.com/Raphire) ([Win11Debloat](https://github.com/Raphire/Win11Debloat))
 - [Adasjusk](https://github.com/adasjusk) ([OrangBoost](https://github.com/InterJavas-Projects/OrangBooster))
-- [ZorsMatux](https://github.com/ZorsMatux) (Program Tester and reviewer)
